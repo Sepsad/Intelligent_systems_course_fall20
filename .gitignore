@@ -1,0 +1,13 @@
+#pdf files
+*.pdf
+*.html
+
+#data files
+*.csv
+*.zip
+
+# Linux 
+*~
+
+# Distribution / packaging
+.ipynb_checkpoints
