@@ -5,9 +5,17 @@
 #data files
 *.csv
 *.zip
+*.rar
+*.png
+*.svg
+*.pkl
+
 
 # Linux 
 *~
 
 # Distribution / packaging
 .ipynb_checkpoints
+.vscode
+__pycache__
+*.lnk
